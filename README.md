@@ -44,13 +44,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringil
 -----
 
 
+-----
 
 
-## Table of Contents
-1. [ Project Roadmap. ](#desc)
-[ Usage tips. ](#usage)
+# Table of Contents
+### [ Project Roadmap ](#Project_Roadmap)
 
-<a name="Project Roadmap">
+### [ How to Install and Run the Project ](#How_to_install)
+
+### [ How to Use the Project ](#How_to_use)
+
+### [ Code and usage examples ](#examples)
+
+### [ How to Contribute to the Project ](#how_to_contribute)
+
+### [ Include Credits, Authors and acknowledgment for contributions ](#credits)
+
+
+
+-----
+
+
+
+<a name="Project_Roadmap">
 
 #### Project Roadmap
 
@@ -58,28 +74,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringil
 
 </a>
 
+
+<a name="How_to_install">
+
 #### How to Install and Run the Project
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
+
+</a>
+
+<a name="How_to_use">
 
 
 #### How to Use the Project
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
 
+</a>
 
-#### Usage and code examples
+<a name="examples">
+
+#### Code and usage examples
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
+
+</a>
+
+
+<a name="how_to_contribute">
 
 
 #### How to Contribute to the Project
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
 
+</a>
 
-#### Include Credits, Authors and acknowledgment for biggest contributions
+<a name="credits">
+
+#### Include Credits, Authors and acknowledgment for contributions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat fringilla eros nec mattis. Cras nec sagittis risus, vel mattis odio. Sed erat massa, commodo nec rutrum ac, tincidunt quis magna. Pellentesque non tristique ante. Phasellus convallis ante tincidunt lacus tempor aliquam. Donec quis ipsum laoreet, pretium ligula quis, pulvinar ante. Nam fringilla nunc in accumsan tempus. 
 
+</a>
 
