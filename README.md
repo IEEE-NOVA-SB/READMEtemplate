@@ -2,7 +2,7 @@
 
 -----
 
-This prohect is a template that serves and a basic structure for good README files
+This project is a template that serves and a basic structure for good README files
 
 -----
 
